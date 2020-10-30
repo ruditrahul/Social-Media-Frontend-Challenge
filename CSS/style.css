@@ -1,0 +1,115 @@
+.body {
+  font-family: 'Spartan', sans-serif;
+  font-weight: bold;
+}
+
+/*---------------------Section-Top-------------------*/
+.top {
+  margin: 100px 70px;
+  font-family: 'Spartan', sans-serif;
+}
+
+.left {
+  padding-left: 40px;
+}
+
+h1 {
+  font-weight: 600;
+  color: hsl(300, 43%, 22%);
+  padding-right: 200px;
+
+}
+
+.left-para {
+  padding-top: 20px;
+  padding-right: 110px;
+  color: grey;
+}
+
+.stars-1 {
+  margin-top: 30px;
+  margin-right: 180px;
+  padding: 15px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+  background-color: hsl(300, 24%, 96%);
+  padding: 5px;
+font-size: 80%;
+}
+
+.stars-2 {
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-right: 140px;
+  padding: 15px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+  padding: 5px;
+  font-size: 80%;
+  background-color: hsl(300, 24%, 96%);
+
+}
+
+.stars-3 {
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-right: 90px;
+  padding: 30%;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+  padding: 5px;
+  background-color: hsl(300, 24%, 96%);
+  font-size: 80%;
+}
+
+/*----------------------Section-Review----------------------*/
+img {
+  border-radius: 100%;
+  width: 12%;
+  margin-top: 20px;
+}
+
+h6 {
+  color: hsl(333, 80%, 67%);
+}
+
+.veiws {
+  size: 50%;
+}
+
+.colton {
+  font-family: 'Spartan', sans-serif;
+  padding: 20px 30px;
+  margin-left: 80px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  border-radius: 10%;
+  margin-right: 10px;
+}
+
+.irene {
+  font-family: 'Spartan', sans-serif;
+  padding: 20px 30px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  border-radius: 10%;
+  margin-right: 50px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.anne {
+  font-family: 'Spartan', sans-serif;
+  padding: 20px 25px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  border-radius: 10%;
+  margin-right: 80px;
+  margin-top: 40px;
+}
+
+
+.attribution{
+  font-family: 'Spartan', sans-serif;
+  margin-left:6%;
+}
